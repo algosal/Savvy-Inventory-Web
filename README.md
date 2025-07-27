@@ -19,8 +19,6 @@ At Savvy Inventory, we are dedicated to helping small businesses manage their in
 
 ## 📁 Project Structure
 
-```
-
 savvy-inventory/
 ├── public/
 │ └── index.html # SEO meta tags
@@ -34,7 +32,7 @@ savvy-inventory/
 ├── README.md # This file
 └── package.json
 
-```
+````
 
 ## ⚙️ Getting Started
 
@@ -43,7 +41,7 @@ savvy-inventory/
    ```bash
    git clone https://github.com/your-username/savvy-inventory.git
    cd savvy-inventory
-   ```
+````
 
 ````
 
