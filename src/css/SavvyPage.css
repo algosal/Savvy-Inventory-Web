@@ -1,0 +1,40 @@
+body,
+html,
+#root {
+  margin: 0;
+  padding: 0;
+  font-family: "Inter", sans-serif;
+  background-color: #f8f9fc;
+  color: #1f2a48;
+}
+
+.savvy-container {
+  max-width: 900px;
+  margin: 0 auto;
+  padding: 2rem;
+}
+
+.savvy-header h1 {
+  text-align: center;
+  font-size: 2.5rem;
+  color: #00796b;
+  margin-bottom: 1rem;
+}
+
+.savvy-section {
+  margin-top: 2rem;
+  line-height: 1.6;
+}
+
+.savvy-section h2 {
+  font-size: 1.8rem;
+  color: #37474f;
+  margin-bottom: 1rem;
+}
+
+.savvy-footer {
+  margin-top: 4rem;
+  text-align: center;
+  color: #888;
+  font-size: 0.9rem;
+}
