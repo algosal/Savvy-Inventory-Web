@@ -66,7 +66,3 @@ Meta tags for `description`, `keywords`, and `author` are pre-configured in `pub
 ## 📄 License
 
 © 2024 Savvy Inventory LLC. All rights reserved.
-
-```
-
-```
